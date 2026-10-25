@@ -57,4 +57,4 @@ If this policy changes, the updated version will be published at this same addre
 
 ## Contact
 
-For questions about this policy, [open an issue on GitHub](https://github.com/m0rnings8ar/tab-tidy-privacy/issues).
+For questions about this policy, [open an issue on GitHub](https://github.com/m0rnings8ar/tab-tidy/issues).
